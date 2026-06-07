@@ -1,4 +1,4 @@
-# Tuff — Production-Grade Sports & Turf Platform Backend
+# Beat it: Production-Grade Sports & Turf Platform Backend
 
 > TypeScript monorepo · Express · MongoDB · Redis · BullMQ · Firebase · Socket.IO
 
