@@ -1,4 +1,7 @@
-# Beat it: Production-Grade Sports & Turf Platform Backend
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/9975f143-187e-4166-85b7-be43ffe46aff" />
+
+
+# Beat it: Sports & Turf Platform Backend
 
 > TypeScript monorepo · Express · MongoDB · Redis · BullMQ · Firebase · Socket.IO
 
@@ -59,6 +62,7 @@ Tuff is a production-grade backend for a sports and turf booking platform target
 │  └──────────────────────────────┘  └──────────────────┘   │
 └────────────────────────────────────────────────────────────┘
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0b4faf1d-9e4f-416f-bf62-822a96fc8534" />
 
 ---
 
